@@ -1,12 +1,12 @@
 module.exports = nativeDescription: "العربية", englishDescription: "Arabic", translation:
-#  new_home:
+  new_home:"منزل جديد"
 #    slogan: "The most engaging way to learn real code."
 #    classroom_edition: "Classroom Edition:"
 #    learn_to_code: "Learn to code:"
-#    play_now: "Play Now"
-#    im_a_teacher: "I'm a Teacher"
-#    im_a_student: "I'm a Student"
-#    learn_more: "Learn more"
+    play_now: "العب الآن"
+    im_a_teacher: "أنا معلم"
+    im_a_student: "أنا طالب"
+    learn_more: "معلومات أكثر"
 #    classroom_in_a_box: "A classroom in-a-box for teaching computer science."
 #    codecombat_is: "CodeCombat is a platform <strong>for students</strong> to learn computer science while playing through a real game."
 #    our_courses: "Our courses have been specifically playtested <strong>to excel in the classroom</strong>, even for teachers with little to no prior programming experience."
